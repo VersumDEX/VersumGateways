@@ -5,7 +5,7 @@ The Gateway connects our blockchain with the world outside our ecosystem and all
 For a higher security level, our gateways consist of 2 different, spatially separated servers. <br />
 All funds are stored on a hardened system and are represented in an immutable, decentralized way through the Versum Blockchain (Multichain Protokoll). The communication between the hardened Server & the User Client is done through a public server which sits between users & their funds, to shield the funds.<br />
 <br />
-The general concept of these gateways can (and will) be applied to other asset classes (like stocks or fiat money, etc.) with some modifications.
+The general concept of these gateways can (and will) be applied to other asset classes (like stocks or fiat money, etc.) with some modifications.<br />
 <br />
 Public Server:<br />
 -Running server.py & wsgi.py <br />
