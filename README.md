@@ -22,4 +22,8 @@ Hardened Server:<br />
 -Requests address pairs from 1st server<br />
 -Checks weather an amount has been sent to a gateway 	address and if so, issues the equivalent amount on the 	Versum Blockchain (on deposit) or on the native currency blockchain (on witrhdraw)<br />
 -Refills public server with fresh addresses for deposit & withdraw<br />
+
+NOTE: This is a prototype it's neither a finished product nor is this repository up to date.
+	Ose.
+	
 	
